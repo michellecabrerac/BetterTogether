@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492504851547",
+    "firebase_url": "https://better-together-be4aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "better-together-be4aa",
+    "storage_bucket": "better-together-be4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492504851547:android:7d7ee6a83dff6dada10b7e",
+        "android_client_info": {
+          "package_name": "com.bettertogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492504851547-t36g1tbd1i9hm6iuau406ei9j1hdphkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bettertogether",
+            "certificate_hash": "4adf62e6889b4090bcd2ac86e9acd9ac5abc4f87"
+          }
+        },
+        {
+          "client_id": "492504851547-b1uvvj410qob8a46d7f7i32lpaqb23aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3N2VqnPUFQ_eTmc5jmZ6tCa8y_3Eqi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492504851547-b1uvvj410qob8a46d7f7i32lpaqb23aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
